@@ -10,7 +10,7 @@
 
 ## 🧠 Tecnologias que estudo
 - C# / .NET  
-- SQL Server / MySQL  
+- SQL Server
 - HTML / CSS / JavaScript  
 - AWS e APIs REST  
 

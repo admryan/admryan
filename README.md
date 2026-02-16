@@ -1,41 +1,35 @@
-# Olá, eu sou o Ryan! 👋
+<div align="center">
+  <h1>Olá, eu sou o Ryan! 👋</h1>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=flat-square" alt="Backend Developer">
+<p align="center">
+  <strong>Desenvolvedor Back-end</strong> especializado no ecossistema .NET e soluções em nuvem.
 </p>
 
-Sou um desenvolvedor Backend apaixonado por construir soluções escaláveis e eficientes. Atualmente, foco meus estudos no ecossistema .NET, arquitetura de sistemas e infraestrutura em nuvem.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ryan-alves-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Linguagens e Tecnologias
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,aws,py,git,docker,github" />
+</div>
 
 ---
 
-### 🚀 No que estou trabalhando agora
+### 🚀 Foco Atual
 
-* 🎯 Desenvolvendo Web APIs robustas com **ASP.NET Core**.
-* ☁️ Implementando serviços e segurança com **AWS IAM e S3**.
-* 🏗️ Aplicando padrões de projeto e **Clean Architecture** em meus repositórios de C#.
+* 🎯 Construção de **Web APIs escaláveis** com ASP.NET Core.
+* ☁️ Gerenciamento de infraestrutura e segurança na **AWS** (IAM, S3).
+* 🏗️ Implementação de **Clean Architecture** e boas práticas em C#.
 
 ---
 
-### 📫 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ryan-alves-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<br />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admryan&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</div>

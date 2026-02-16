@@ -1,31 +1,44 @@
 # Olá, eu sou o Ryan! 👋
 
-### 🚀 Desenvolvedor Back-end em constante evolução
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=flat-square" alt="Backend Developer">
+</p>
 
-Sou apaixonado por tecnologia e atualmente foco meus estudos em arquitetura de sistemas e automação. Tenho experiência com desenvolvimento em C# e Python, além de estar explorando o ecossistema da AWS para deploy e infraestrutura.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Sou um desenvolvedor Backend apaixonado por construir soluções escaláveis e eficientes. Atualmente, foco meus estudos no ecossistema .NET, arquitetura de sistemas e infraestrutura em nuvem.
 
 ---
 
-### 🌱 No que estou trabalhando agora:
-* 🎯 Aprofundando em **Entity Framework Core** e **ASP.NET Web APIs**.
-* ☁️ Configurando ambientes seguros na **AWS (IAM, S3, EC2)**.
-* 🗄️ Otimização de queries e modelagem de dados com **SQL**.
+### 🛠️ Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-### 📫 Como me encontrar:
+### 🚀 No que estou trabalhando agora
+
+* 🎯 Desenvolvendo Web APIs robustas com **ASP.NET Core**.
+* ☁️ Implementando serviços e segurança com **AWS IAM e S3**.
+* 🏗️ Aplicando padrões de projeto e **Clean Architecture** em meus repositórios de C#.
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ryan-alves-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ryan-alves-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admryan&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Linguagens mais usadas" />
 </div>

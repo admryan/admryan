@@ -39,6 +39,3 @@ Sou um desenvolvedor Backend apaixonado por construir soluções escaláveis e e
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=admryan&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Linguagens mais usadas" />
-</div>

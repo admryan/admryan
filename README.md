@@ -20,8 +20,8 @@
 ### 🚀 Foco Atual
 
 * 🎯 Estudando a construção de **Web APIs** com ASP.NET Core.
-* ☁️ Aprendendo fundamentos de nuvem e segurança na **AWS** (IAM, S3).
-* 🏗️ Aplicando lógica de programação e POO com **C#**.
+* ☁️ Se aperfeiçoando em **AWS** (IAM, S3, EC2).
+* 🏗️ Se aperfeiçoando em **C#** e Programação Orientada a Objetos.
 
 ---
 
